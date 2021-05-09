@@ -1,0 +1,27 @@
+{
+    "name": "IDFK",
+    "author": "Cannabis",
+    "description": "WIP",
+    "license": "MIT",
+    "version": "4.20.69",
+    "dependencies": [],
+    "res": {
+        "bundles": {
+            "folders": [
+                "bundles"
+            ]
+        }
+    },
+    "src": {
+        "src/modloader.js": "CacheModLoad"
+    },
+    "folders": [
+        "files/assort/ragfair",
+        "files/items",
+        "files/locales/en",
+        "files/templates"
+    ],
+    "filenames": [
+        "Ghzek"
+    ]
+}
